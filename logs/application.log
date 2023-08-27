@@ -1,0 +1,32 @@
+22:55:52.542 [restartedMain] INFO  s.n.e.a.AssignmentSpringMavenApplication - Starting AssignmentSpringMavenApplication using Java 17.0.8 on Fiza with PID 34546 (/home/norulehapizah/3.1-java/assignment-spring-maven/target/classes started by norulehapizah in /home/norulehapizah/3.1-java/assignment-spring-maven)
+22:55:52.543 [restartedMain] INFO  s.n.e.a.AssignmentSpringMavenApplication - No active profile set, falling back to 1 default profile: "default"
+22:55:52.845 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+22:55:52.846 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+22:55:52.847 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.79]
+22:55:52.865 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+22:55:52.865 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 318 ms
+22:55:52.991 [restartedMain] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+22:55:53.056 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+22:55:53.079 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+22:55:53.093 [restartedMain] INFO  s.n.e.a.AssignmentSpringMavenApplication - Started AssignmentSpringMavenApplication in 0.62 seconds (JVM running for 1147.585)
+22:55:53.096 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+22:56:21.982 [restartedMain] INFO  s.n.e.a.AssignmentSpringMavenApplication - Starting AssignmentSpringMavenApplication using Java 17.0.8 on Fiza with PID 48006 (/home/norulehapizah/3.1-java/assignment-spring-maven/target/classes started by norulehapizah in /home/norulehapizah/3.1-java/assignment-spring-maven)
+22:56:21.988 [restartedMain] INFO  s.n.e.a.AssignmentSpringMavenApplication - No active profile set, falling back to 1 default profile: "default"
+22:56:22.083 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+22:56:22.084 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+22:56:25.372 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+22:56:25.399 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+22:56:25.416 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+22:56:25.418 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.79]
+22:56:25.586 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+22:56:25.587 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3501 ms
+22:56:25.717 [restartedMain] INFO  s.n.e.a.ProductController - Added default products
+22:56:26.546 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+22:56:26.573 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+22:56:26.624 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+22:56:26.672 [restartedMain] INFO  s.n.e.a.AssignmentSpringMavenApplication - Started AssignmentSpringMavenApplication in 5.667 seconds (JVM running for 6.848)
+22:56:34.795 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+22:56:34.795 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+22:56:34.799 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+22:56:50.494 [http-nio-8080-exec-5] INFO  s.n.e.a.ProductController - Displaying all products
+22:57:00.688 [http-nio-8080-exec-6] INFO  s.n.e.a.ProductController - Created new product
